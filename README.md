@@ -114,7 +114,7 @@ Total deals: 648
 |  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
 |  🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY2024**
-|  ⭐ | [Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Static.app](https://static.app/) | Website hosting and VPS - We accept crypto payment. | 50% OFF with code **BF_2024** |
 |  ⭐ | [Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
 |  ⭐ | [Hoverify](https://tryhoverify.com) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | 30% OFF! |
@@ -163,6 +163,7 @@ Total deals: 648
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
 |  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
+|  ⭐ | [Servers Guru](https://servers.guru/?aff=1) | Anonymous hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
